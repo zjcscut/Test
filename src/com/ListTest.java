@@ -12,13 +12,7 @@ import java.util.List;
  */
 public class ListTest {
     public static void main(String[] args) {
-       Integer s= 1;
-        Integer t = 2;
-        Integer ss = 3;
-        if(  s + t != ss){
-          System.out.println(false);
-        }else
-            System.out.println(true);
-
+       String s= "test";
+        System.out.println("test");
     }
 }
